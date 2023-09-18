@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\bin\Debug\net6.0\Traineeship.Domain.deps.json
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\bin\Debug\net6.0\Traineeship.Domain.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\bin\Debug\net6.0\Traineeship.Domain.pdb
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\obj\Debug\net6.0\Traineeship.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\obj\Debug\net6.0\Traineeship.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\obj\Debug\net6.0\Traineeship.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\obj\Debug\net6.0\Traineeship.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\obj\Debug\net6.0\Traineeship.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\obj\Debug\net6.0\Traineeship.Domain.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\obj\Debug\net6.0\refint\Traineeship.Domain.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\obj\Debug\net6.0\Traineeship.Domain.pdb
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Domain\obj\Debug\net6.0\ref\Traineeship.Domain.dll

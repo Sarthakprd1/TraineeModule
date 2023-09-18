@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Traineeship.Application/1.0.0": {
+        "dependencies": {
+          "Traineeship.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Traineeship.Application.dll": {}
+        }
+      },
+      "Traineeship.Domain/1.0.0": {
+        "runtime": {
+          "Traineeship.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Traineeship.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Traineeship.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\bin\Debug\net6.0\Traineeship.Infrastructure.deps.json
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\bin\Debug\net6.0\Traineeship.Infrastructure.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\bin\Debug\net6.0\Traineeship.Infrastructure.pdb
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\bin\Debug\net6.0\Traineeship.Application.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\bin\Debug\net6.0\Traineeship.Domain.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\bin\Debug\net6.0\Traineeship.Application.pdb
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\bin\Debug\net6.0\Traineeship.Domain.pdb
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\Traineeship.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\Traineeship.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\Traineeship.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\Traineeship.Infrastructure.AssemblyInfo.cs
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\Traineeship.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\Traineeship.Infrastructure.csproj.CopyComplete
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\Traineeship.Infrastructure.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\refint\Traineeship.Infrastructure.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\Traineeship.Infrastructure.pdb
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Infrastructure\obj\Debug\net6.0\ref\Traineeship.Infrastructure.dll

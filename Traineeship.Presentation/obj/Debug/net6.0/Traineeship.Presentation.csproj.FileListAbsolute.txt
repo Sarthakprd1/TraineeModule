@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\bin\Debug\net6.0\Traineeship.Presentation.deps.json
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\bin\Debug\net6.0\Traineeship.Presentation.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\bin\Debug\net6.0\Traineeship.Presentation.pdb
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\obj\Debug\net6.0\Traineeship.Presentation.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\obj\Debug\net6.0\Traineeship.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\obj\Debug\net6.0\Traineeship.Presentation.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\obj\Debug\net6.0\Traineeship.Presentation.AssemblyInfo.cs
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\obj\Debug\net6.0\Traineeship.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\obj\Debug\net6.0\Traineeship.Presentation.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\obj\Debug\net6.0\refint\Traineeship.Presentation.dll
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\obj\Debug\net6.0\Traineeship.Presentation.pdb
+C:\Users\admin\Desktop\Codeology\Traineeship Module\Traineeship.Presentation\obj\Debug\net6.0\ref\Traineeship.Presentation.dll
